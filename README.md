@@ -1,7 +1,7 @@
 # NER-OCR
 
 
-#Objective: Apply optical character recognition, extract text (client names from documents)
+# Objective: Apply optical character recognition, extract text (client names from documents)
 
 
 Dependent Packages: 
@@ -11,7 +11,7 @@ Dependent Packages:
 -csv,
 -spacy
 
-##STEPS
+## STEPS
   * take the image
   * crop it
   * convert to grayscale
