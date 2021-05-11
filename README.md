@@ -8,13 +8,13 @@ Dependent Packages:
 -python, 
 -opencv, 
 -pytesseract, 
--csv
+-csv,
 -spacy
 
 ##STEPS
-  take the image
-  crop it
-  convert to grayscale
-  give to tesseract
-  text
-  futher preprocessing of text to get clients name
+  *take the image
+  *crop it
+  *convert to grayscale
+  *give to tesseract
+  *text
+  *futher preprocessing of text to get clients name
