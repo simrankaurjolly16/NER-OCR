@@ -1,6 +1,16 @@
 # NER-OCR
+
+
 #Objective: Apply optical character recognition, extract text (client names from documents)
-Dependent Packages: -python, -opencv, -pytesseract, -csv
+
+
+Dependent Packages: 
+-python, 
+-opencv, 
+-pytesseract, 
+-csv
+-spacy
+
 ##STEPS
   take the image
   crop it
